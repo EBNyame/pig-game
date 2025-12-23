@@ -1,2 +1,2 @@
 # pig-game
-the pig game 
+Pig Game is a simple turn-based dice game where players roll a die to accumulate points and race to reach a winning score. Players must decide whether to keep rolling to increase their score or hold and pass their turn, adding an element of risk and strategy. The game features straightforward rules and an interactive interface, making it easy and fun to play.
